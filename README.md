@@ -844,18 +844,21 @@ Basic history:
 git log
 ```
 
+<img width="600" height="580" alt="Screenshot 2026-08-26 213933" src="https://github.com/user-attachments/assets/0b3f6b36-21e2-4788-bbd8-c56fa51fce25" />
+
 Compact:
 
 ```bash
 git log --oneline
 ```
+<img width="608" height="136" alt="Screenshot 2026-08-26 214124" src="https://github.com/user-attachments/assets/cadc0d94-363e-4330-926d-05a269ef4fe8" />
 
 Graph:
 
 ```bash
 git log --oneline --graph --all
 ```
-
+<img width="808" height="197" alt="Screenshot 2026-08-26 214313" src="https://github.com/user-attachments/assets/9670693d-2f7c-4c16-9a66-a55b38fb23e1" />
 This is excellent for your seminar because students can **visually see branches and merges**.
 
 ---
