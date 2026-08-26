@@ -866,6 +866,8 @@ This is excellent for your seminar because students can **visually see branches 
 # 26. 🔍 `git diff`
 
 Make a change but don't commit.
+"git diff shows me what I changed in my working directory before I stage those changes."
+<img width="696" height="644" alt="Screenshot 2026-08-26 221402" src="https://github.com/user-attachments/assets/c31f0e7b-b3ec-42de-a503-d2466d8bbf77" />
 
 Then:
 
@@ -891,7 +893,7 @@ Then:
 ```bash
 git diff --staged
 ```
-
+<img width="532" height="647" alt="Screenshot 2026-08-26 221904" src="https://github.com/user-attachments/assets/ceef50e8-6e30-4b97-88d7-96042732d1e4" />
 Explain:
 
 ```text
@@ -903,8 +905,10 @@ git diff --staged
        ↓
 Staging vs last commit
 ```
+"git diff --staged shows the changes that I have already staged and that will be included in my next commit."
 
 Your uploaded notes explicitly include both forms. 
+<img width="1122" height="1402" alt="git diff" src="https://github.com/user-attachments/assets/9810303d-3dad-42eb-920a-f3b36e9f1b37" />
 
 ---
 
