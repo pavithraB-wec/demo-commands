@@ -767,6 +767,8 @@ Your source specifically compares merge and rebase and advises avoiding rebase o
 ---
 
 # 22. 🌿 `git branch`
+<img width="427" height="332" alt="Screenshot 2026-08-26 213532" src="https://github.com/user-attachments/assets/69bfb3dd-59e9-4fdc-a40f-714f88bf1f83" />
+
 
 Show all local branches:
 
