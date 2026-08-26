@@ -1,8 +1,8 @@
  # 🚀 COMPLETE GITHUB SEMINAR DEMO
 
-## 👑 Owner: Pavi
+##  Owner: Pavi
 
-## 🤖 Contributor: Ranjana devi k
+##  Contributor: Ranjana devi k
 
 ### Project
 
