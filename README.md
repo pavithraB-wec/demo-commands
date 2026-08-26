@@ -913,7 +913,13 @@ Your uploaded notes explicitly include both forms.
 ---
 
 # 27. 🔗 Remote Commands
-
+A remote is a name/shortcut that points to a GitHub repository.
+Your Computer
+     │
+     │ origin
+     ↓
+   GitHub
+   
 Show:
 
 ```bash
