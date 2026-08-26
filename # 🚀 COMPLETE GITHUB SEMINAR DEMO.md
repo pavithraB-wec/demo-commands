@@ -2,7 +2,7 @@
 
 ## 👑 Owner: Pavi
 
-## 🤖 Contributor: Ranjana
+## 🤖 Contributor: Ranjana devi k
 
 ### Project
 
