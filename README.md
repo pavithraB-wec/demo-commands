@@ -1,3 +1,4 @@
+<img width="1075" height="683" alt="Screenshot 2026-08-24 203835" src="https://github.com/user-attachments/assets/62afed82-4010-476d-9fca-1d9a070647eb" />
  # 🚀 COMPLETE GITHUB SEMINAR DEMO
 
 ## 👑 Owner: Pavi
@@ -908,7 +909,7 @@ Staging vs last commit
 "git diff --staged shows the changes that I have already staged and that will be included in my next commit."
 
 Your uploaded notes explicitly include both forms. 
-<img width="1122" height="1402" alt="git diff" src="https://github.com/user-attachments/assets/9810303d-3dad-42eb-920a-f3b36e9f1b37" />
+
 
 ---
 
@@ -925,6 +926,7 @@ Show:
 ```bash
 git remote -v
 ```
+<img width="1122" height="1402" alt="git diff" src="https://github.com/user-attachments/assets/9810303d-3dad-42eb-920a-f3b36e9f1b37" />
 
 Add a remote in a test repository:
 
@@ -943,6 +945,8 @@ Remove:
 ```bash
 git remote remove upstream
 ```
+<img width="552" height="92" alt="Screenshot 2026-08-26 230351" src="https://github.com/user-attachments/assets/8740a0af-ded3-4847-beb0-ce00b4ce9738" />
+<img width="759" height="85" alt="Screenshot 2026-08-26 230451" src="https://github.com/user-attachments/assets/a7a0f54f-af02-4b11-845c-b5d189cc01fc" />
 
 Don't run these unnecessarily on your actual seminar repository—use a small practice folder if you want to demonstrate them.
 
