@@ -1,9 +1,8 @@
-<img width="1075" height="683" alt="Screenshot 2026-08-24 203835" src="https://github.com/user-attachments/assets/62afed82-4010-476d-9fca-1d9a070647eb" />
  # 🚀 COMPLETE GITHUB SEMINAR DEMO
 
-## 👑 Owner: Pavi
+## Owner: Pavi
 
-## 🤖 Contributor: Ranjana
+## Contributor: Ranjana
 
 ### Project
 
@@ -909,7 +908,7 @@ Staging vs last commit
 "git diff --staged shows the changes that I have already staged and that will be included in my next commit."
 
 Your uploaded notes explicitly include both forms. 
-
+<img width="1122" height="1402" alt="git diff" src="https://github.com/user-attachments/assets/9810303d-3dad-42eb-920a-f3b36e9f1b37" />
 
 ---
 
@@ -926,7 +925,7 @@ Show:
 ```bash
 git remote -v
 ```
-<img width="1122" height="1402" alt="git diff" src="https://github.com/user-attachments/assets/9810303d-3dad-42eb-920a-f3b36e9f1b37" />
+<img width="1075" height="683" alt="Screenshot 2026-08-24 203835" src="https://github.com/user-attachments/assets/62afed82-4010-476d-9fca-1d9a070647eb" />
 
 Add a remote in a test repository:
 
@@ -957,7 +956,7 @@ Your notes cover adding, removing, renaming and changing remote URLs.
 # 28. 🏷️ Git Tags
 
 Tags are useful for marking versions/releases.
-
+A Git tag is a name/label attached to a specific commit.
 Create:
 
 ```bash
@@ -1220,8 +1219,33 @@ Commit:
 ```bash
 git commit -m "Resolve merge conflict"
 ```
+remove the accidental nested repository and keep only one repo.
 
-This demonstrates a real-world problem rather than only the happy path. Your source notes include the conflict workflow: identify the conflict, edit/resolve, save, stage and commit. 
+1. First inspect the folders
+
+Run:
+
+Get-ChildItem
+
+Then:
+
+Get-ChildItem .\remote-demo
+
+You should see the nested remote-demo.
+
+2. Remove the nested repository
+
+From:
+
+D:\cs-github-seminar\remote-demo
+
+run:
+
+Remove-Item -Recurse -Force .\remote-demo
+
+⚠️ This deletes the nested remote-demo folder. Make sure it contains only the accidental clone/test repository before running it.
+<img width="572" height="426" alt="Screenshot 2026-08-26 232227" src="https://github.com/user-attachments/assets/73e08a32-3c17-4112-91f7-66fe83bce51d" />
+
 
 ---
 
