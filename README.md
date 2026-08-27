@@ -1,4 +1,5 @@
 
+
  # 🚀 COMPLETE GITHUB SEMINAR DEMO
 
 ## Owner: Pavi
@@ -999,6 +1000,7 @@ Your notes cover lightweight and annotated tags and pushing tags.
 ---
 
 # 29. 🍒 `git cherry-pick`
+<img width="1001" height="477" alt="Screenshot 2026-08-27 092739" src="https://github.com/user-attachments/assets/5c591539-9c71-4bbf-a837-27a6b863c2fc" />
 
 This is an advanced but impressive demo.
 
