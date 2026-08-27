@@ -1,3 +1,4 @@
+
  # 🚀 COMPLETE GITHUB SEMINAR DEMO
 
 ## Owner: Pavi
@@ -958,7 +959,7 @@ Your notes cover adding, removing, renaming and changing remote URLs.
 Tags are useful for marking versions/releases.
 A Git tag is a name/label attached to a specific commit.
 Create:
-
+<img width="566" height="624" alt="Screenshot 2026-08-27 091645" src="https://github.com/user-attachments/assets/87720519-5b58-4a4e-961b-4bfed6147035" />
 ```bash
 git tag v1.0
 ```
